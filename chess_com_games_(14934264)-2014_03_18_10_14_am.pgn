@@ -1,0 +1,166 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.12"]
+[White "farchieb"]
+[Black "buchanae"]
+[Result "1-0"]
+[WhiteElo "1258"]
+[BlackElo "1200"]
+[TimeControl "1 in 3 days"]
+[Termination "farchieb won by checkmate"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Bg4 4.Qa4+ Qd7 5.b3 Nc6 6.Bb5 Nf6 7.d3 g6 8.O-O Bg7 9.Nbd2 O-O 10.Bb2 a6
+ 11.Bxc6 bxc6 12.d4 d5 13.dxc5 dxe4 14.Nxe4 Qf5 15.Ng3 Qd3 16.Qxc6 Nh5 17.Rad1 Qb5 18.Nd4 Bxd4 19.Qxb5 axb5 20.Rxd4 Rxa2
+ 21.Rb1 f5 22.f3 e5 23.Rd5 e4 24.fxg4 fxg4 25.Nxe4 Rf4 26.c6 Rxe4 27.c7 Ra8 28.Rd8+ Re8 29.Rxe8+ Rxe8 30.Rd1 Rc8
+ 31.Rd8+ Rxd8 32.cxd8=Q+ Kf7 33.c4 bxc4 34.bxc4 g3 35.Qd7+ Kf8 36.c5 Nf6 37.Bxf6 h5 38.Qe7+ Kg8 39.Qg7# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.17"]
+[White "buchanae"]
+[Black "farchieb"]
+[Result "1-0"]
+[WhiteElo "1270"]
+[BlackElo "1086"]
+[TimeControl "1 in 3 days"]
+[Termination "buchanae won by resignation"]
+
+1.e4 c5 2.Nc3 e5 3.b3 d6 4.Bb2 Be6 5.Bb5+ Bd7 6.Nd5 Qa5 7.Qe2 Nc6 8.b4 Nxb4 9.Bxd7+ Kxd7 10.Qf3 Nxd5
+ 11.Qxf7+ Nde7 12.f4 Nf6 13.fxe5 dxe5 14.Bxe5 Kc8 15.Bxf6 gxf6 16.Qxf6 Ng6 17.h4 Qb6 18.Qf5+ Kd8 19.h5 Ne7 20.Qe5 Rg8
+ 21.g3 Kc8 22.Nf3 Rg4 23.Ng5 Ng6 24.Qf5+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.18"]
+[White "farchieb"]
+[Black "buchanae"]
+[Result "1-0"]
+[WhiteElo "1178"]
+[BlackElo "1172"]
+[TimeControl "1 in 3 days"]
+[Termination "farchieb won by checkmate"]
+
+1.e4 e5 2.c4 Nc6 3.Nc3 Bb4 4.a3 Bxc3 5.bxc3 Nf6 6.Bd3 O-O 7.Nf3 b6 8.O-O Na5 9.Qa4 d6 10.c5 Bd7
+ 11.Bb5 Nxe4 12.Bxd7 Nxc5 13.Qc2 Qxd7 14.Ng5 f5 15.c4 h6 16.Nf3 e4 17.Nd4 f4 18.f3 d5 19.Bb2 dxc4 20.Qc3 Nab3
+ 21.Rae1 Nxd4 22.Qxd4 Nd3 23.Qxd7 exf3 24.Re7 f2+ 25.Kh1 Rad8 26.Rxg7+ Kh8 27.Rh7+ Kg8 28.Qg7# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.20"]
+[White "buchanae"]
+[Black "farchieb"]
+[Result "1-0"]
+[WhiteElo "1232"]
+[BlackElo "1121"]
+[TimeControl "1 in 3 days"]
+[Termination "buchanae won by resignation"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nc6 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Bc4 Be6 7.Bg5+ f6 8.Bxe6 Ke7 9.Bxg8 Rxg8 10.Bh4 g5
+ 11.Bg3 Ke8 12.O-O Rd8 13.Nc3 Rd7 14.Rad1 Nd4 15.Nxd4 exd4 16.Nd5 Bg7 17.Nxc7+ Rxc7 18.Bxc7 Kf7 19.Rxd4 Rc8 20.Rd7+ Kg6
+ 21.f4 Re8 22.h4 Rxe4 23.hxg5 f5 24.Bb8 Bxb2 25.Rd6+ Kf7 26.Rh6 Bg7 27.Rxh7 Kg6 28.Rh3 a5 29.Rb3 a4 30.Rxb7 Re2
+ 31.Rb6+ Kh7 32.Be5 Rxc2 33.Rf3 Rxa2 34.Rh3+ Kg8 35.Rb8+ Kf7 36.Rh7 Ra1+ 37.Kh2 a3 38.Rxg7+ Ke6 39.Bxa1 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.23"]
+[White "farchieb"]
+[Black "buchanae"]
+[Result "0-1"]
+[WhiteElo "1085"]
+[BlackElo "1269"]
+[TimeControl "1 in 3 days"]
+[Termination "buchanae won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.c4 Qc5 6.b3 Nf6 7.Ba3 Qb6 8.Bd3 Ng4 9.O-O Bxa3 10.Nxa3 g6
+ 11.Qe2 O-O 12.h3 Qa5 13.Nb5 a6 14.a4 axb5 15.axb5 Qxa1 16.Rxa1 Rxa1+ 17.Ne1 Nb4 18.Qe4 f5 19.Qe2 Nxd3 20.Qxd3 Rxe1+
+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.25"]
+[White "buchanae"]
+[Black "farchieb"]
+[Result "0-1"]
+[WhiteElo "1201"]
+[BlackElo "1151"]
+[TimeControl "1 in 3 days"]
+[Termination "farchieb won by resignation"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Nf6 5.e5 d5 6.exf6 Bxf6 7.Qe2+ Be6 8.b3 dxc4 9.bxc4 O-O 10.Nc3 Re8
+ 11.Rb1 Bxc4 12.Qe4 Rxe4+ 13.Nxe4 b6 14.d3 Bxa2 15.Rb4 Nc6 16.Nxf6+ Qxf6 17.Bb2 Qg6 18.Nh4 Qg4 19.g3 Re8+ 20.Re4 Rxe4+
+ 21.dxe4 f3 22.O-O Qxe4 23.Rd1 Qxc2 24.Re1 f2+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.03.01"]
+[White "farchieb"]
+[Black "buchanae"]
+[Result "1-0"]
+[WhiteElo "1197"]
+[BlackElo "1154"]
+[TimeControl "1 in 3 days"]
+[Termination "farchieb won by resignation"]
+
+1.c4 c5 2.e3 d5 3.b4 cxb4 4.d4 Bf5 5.Bd3 g6 6.Bd2 Nc6 7.Bxf5 dxc4 8.Be4 c3 9.Nxc3 bxc3 10.Bxc3 Nf6
+ 11.d5 Nxe4 12.Bxh8 e6 13.dxc6 Bb4+ 14.Ke2 Qd6 15.cxb7 Rc8 16.bxc8=Q+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.03.03"]
+[White "buchanae"]
+[Black "farchieb"]
+[Result "1-0"]
+[WhiteElo "1196"]
+[BlackElo "1156"]
+[TimeControl "1 in 3 days"]
+[Termination "buchanae won by checkmate"]
+
+1.e4 e5 2.d4 f6 3.Bc4 c5 4.Qh5+ g6 5.Qh4 Bd6 6.Bxg8 Rxg8 7.Qxh7 Kf8 8.Bh6+ Ke8 9.Qxg8+ Ke7 10.Bf8+ Ke8
+ 11.Bxd6# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.03.04"]
+[White "farchieb"]
+[Black "buchanae"]
+[Result "1-0"]
+[WhiteElo "1193"]
+[BlackElo "1158"]
+[TimeControl "1 in 3 days"]
+[Termination "farchieb won by resignation"]
+
+1.e4 c5 2.Bc4 e6 3.d4 d5 4.exd5 exd5 5.Bb5+ Bd7 6.Qe2+ Qe7 7.Nc3 Nf6 8.Be3 a6 9.Bxd7+ Nbxd7 10.O-O-O g6
+ 11.Re1 Bh6 12.Bxh6 Qxe2 13.Ncxe2 O-O-O 14.c3 Rhe8 15.Nf3 Ne4 16.Be3 b5 17.Ne5 f5 18.Nc6 Ne5 19.Nxd8 Nd3+ 20.Kb1 Nxe1
+ 21.Rxe1 Rxd8 22.dxc5 Kc7 23.f3 Nf6 24.Bg5 Rf8 25.Nd4 Re8 26.Rxe8 Nxe8 27.Bf4+ Kd7 28.c6+ Kc8 29.Be5 Nc7 30.b4 Kd8
+ 31.Nb3 Ne6 32.Na5 g5 33.g3 Nf8 34.Nb7+ Ke7 35.c7 Nd7 36.c8=Q Nxe5 37.Qd8+ Ke6 38.Qd6+ Kf7 39.Qxe5 h6 40.Qxf5+ Ke7
+ 41.Qxd5 Kf6 42.Qd6+ Kg7 43.Qxa6 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2014.02.28"]
+[White "buchanae"]
+[Black "davised87"]
+[Result "1-0"]
+[WhiteElo "1184"]
+[BlackElo "1024"]
+[TimeControl "1 in 3 days"]
+[Termination "buchanae won by checkmate"]
+
+1.e4 c5 2.Nc3 Nf6 3.Bc4 Nc6 4.b3 d6 5.d3 Bg4 6.f3 Be6 7.Bb2 b6 8.Nb5 a6 9.Bxf6 gxf6 10.Nc3 Bxc4
+ 11.bxc4 Rg8 12.g4 Nd4 13.Nd5 Ne6 14.Rb1 Rb8 15.c3 Nf4 16.Nxf4 Bh6 17.Qa4+ b5 18.cxb5 Qd7 19.Nge2 e5 20.Nd5 axb5
+ 21.Qa5 Qd8 22.Qa7 Kf8 23.c4 Ra8 24.Qc7 Qxc7 25.Nxc7 Rxa2 26.cxb5 Bd2+ 27.Kf1 Ba5 28.b6 Ra3 29.Nc1 Ke7 30.Nd5+ Kd7
+ 31.Nxf6+ Kc6 32.Nxg8 Bxb6 33.Ne7+ Kb7 34.Nd5 Ra6 35.h4 Kc6 36.Nf6 Bd8 37.Nxh7 d5 38.h5 dxe4 39.dxe4 Ra3 40.Kf2 c4
+ 41.h6 Bb6+ 42.Ke2 c3 43.Nd3 Bc7 44.Nb4+ Kc5 45.Na6+ Rxa6 46.Ng5 c2 47.Ra1 Rxa1 48.Rxa1 Kd6 49.h7 f6 50.Nf7+ Ke7
+ 51.Nh6 Bb6 52.h8=Q Bd4 53.Qh7+ Kd6 54.Nf5+ Kc6 55.Kd3 Bxa1 56.Kxc2 Kc5 57.Qa7+ Kc6 58.Qxa1 Kd7 59.Qa4+ Ke6 60.Qe8#
+ 1-0
+
+
